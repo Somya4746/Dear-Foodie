@@ -32,7 +32,7 @@
   
 ## Demo
 
-Link:- https://zomato-food-app.netlify.app/
+Link:- https://foodie-by-somya.netlify.app/
 
 ## Installation
 
